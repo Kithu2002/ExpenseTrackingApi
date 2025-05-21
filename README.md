@@ -1,10 +1,10 @@
 # Expense Tracking API
 
-A robust REST API for tracking and managing personal or business expenses built with Spring Boot 3.4.5.
+A  REST API for tracking and managing personal or business expenses built with Spring Boot 3.4.5.
 
 ## Overview
 
-The Expense Tracking API provides a comprehensive solution for expense management with full JWT authentication. It allows users to track expenses, categorize them, set budgets, and generate reports. The application includes user management, category organization, expense tracking, and budget monitoring features.
+The Expense Tracking API provides a comprehensive solution for expense management with full JWT authentication. It allows users to track expenses, categorize them, set budgets, and generate reports. The application includes user login/registration, category organization, expense tracking, and budget monitoring features.
 
 ## Features
 
