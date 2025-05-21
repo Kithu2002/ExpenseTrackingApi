@@ -4,58 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3e04172-312d-441b-a070-f777d156b6f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ExpenseTracking.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryManagement-master/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryManagement-master/.idea/LibraryManagement-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryManagement-master/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryManagement-master/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryManagement-master/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryManagement-master/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryManagement-master/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryManagement-master/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryManagement-master/LibraryManagement-master/.idea/LibraryManagement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MovieReservationApplication/.idea/MovieReservationApplication.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jwt-demo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jwt-demo/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jwt-demo/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jwt-demo/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jwt-demo/.idea/jwt-demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jwt-demo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jwt-demo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jwt-demo/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_revert_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_revert__Changes_.xml" beforeDir="false" />
+    <list default="true" id="d3e04172-312d-441b-a070-f777d156b6f4" name="Changes" comment="First Comit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/demo/HELP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/Controller/AuthController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/DTO/LoginRequestDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/DTO/LoginResponseDTO$LoginResponseDTOBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/DTO/LoginResponseDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/DTO/RegisterDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/Entity/Budget.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/Entity/Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/Entity/Expense.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/Entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/Enums/TimePeriod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/ExpenseTrackerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/JWT/JWTService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/JWT/JwtAuthenticationFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/Repository/BudgetRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/Repository/CategoryRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/Repository/ExpenseRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/Repository/UserRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/Security/SecurityConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/Service/AuthenticationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/expenseTracker/application/Service/CustomUserDetailsService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/test-classes/com/expenseTracker/application/ExpenseTrackerApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Kithu2002/Expense-Tracker",
+    "accountId": "9ab04cfb-f602-4e3d-9f8e-3dc854686a84"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -134,6 +90,9 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Logical" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d3e04172-312d-441b-a070-f777d156b6f4" name="Changes" comment="" />
@@ -143,11 +102,32 @@
       <updated>1747764416026</updated>
       <workItem from="1747764417310" duration="8467000" />
       <workItem from="1747789551549" duration="21000" />
-      <workItem from="1747795914466" duration="1507000" />
+      <workItem from="1747795914466" duration="2180000" />
     </task>
+    <task id="LOCAL-00001" summary="First Comit">
+      <option name="closed" value="true" />
+      <created>1747797645891</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747797645891</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Comit">
+      <option name="closed" value="true" />
+      <created>1747797757756</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747797757756</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Comit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Comit" />
   </component>
 </project>
