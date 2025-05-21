@@ -320,14 +320,4 @@ src/main/java/com/expenseTracking/application/
 
 This will create a JAR file in the `target/` directory that can be deployed to any environment with Java 17+.
 
-## License
-
-This project is licensed under the Apache License 2.0.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Contact
-
-For any questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
+ 
